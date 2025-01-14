@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Tao Wang (王涛)"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
-  location         : "China"
-  employer         : "Jilin University"
+  bio              :  "Jilin University"
+  location         : "Changchun, China"
+  employer         : # "Jilin University"
   uri              : # URL
   email            : "miffy0032@foxmail.com" 
 
