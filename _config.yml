@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Tao Wang/Homepage"
+title                    : "Tao Wang"
 title_separator          : "-"
 name                     : &name "Tao Wang"
 description              : &description "a Phd candidate from Jilin University"
