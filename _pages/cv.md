@@ -11,18 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in School of Mathematics, Jilin University, June, 2026 (expected)
+  * Ph.D. student in Computational Mathematics
+  * Advisor: Tao Tang
+* Visiting Ph.D. in FST, Unversity of Macau, 2022 -- 2024
+  * Advisor: Tao Tang & Guanghui Hu
+* B.S. in School of mathematics, Jilin University, 2017 -- 2021
+  * JLU Tang Aoqing honors program in maths (Mount Qomolangma Project)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* MATLAB, C++, Python, LATEX
 
 Publications
 ======
