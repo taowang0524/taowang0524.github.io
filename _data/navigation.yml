@@ -24,7 +24,7 @@ main:
     url: /cv/
 
   - title: "Resume"
-    url: ../assets/Curriculum_Vutae.pdf
+    url: /Curriculum_Vutae.pdf/
     
   # - title: "Guide"
   #  url: /markdown/
