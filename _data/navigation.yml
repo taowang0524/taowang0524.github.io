@@ -20,11 +20,11 @@ main:
   # - title: "Blog Posts"
   #  url: /year-archive/
     
-  ##- title: "CV"
-  ##  url: /cv/
+  - title: "CV"
+    url: /cv/
 
   - title: "Resume"
-    url: /_pages/Curriculum_Vitae.pdf/
+    url: /_pages/Curriculum_Vitae.pdf
     
   # - title: "Guide"
   #  url: /markdown/
